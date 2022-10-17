@@ -9,6 +9,6 @@
 <body>
 	<h1>GIT TEST Project</h1>
 	<p>내용 또 추가</p>
-	
+	<a href="/views/test01.jsp">페이지이동</a>
 </body>
 </html>
