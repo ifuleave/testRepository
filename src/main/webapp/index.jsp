@@ -16,10 +16,10 @@
 	<div class="loginDiv">
 		<h1>로그인 로직 생성</h1>
 		<br><hr><br>
-		
 	</div>
 	<h4>reset-test1</h4>
 	<p>추가</p>
 	<h3>테스트 1 jsp.index 또 수정 쓰 </h3>
+	<h1>user1이 추가한 내용 </h1>
 </body>
 </html>
