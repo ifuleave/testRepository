@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>GIT TEST Project</h1>
-	<p>내용추가</p>
-	<p>내용 또 추가 해볼게~~</p>
+	<p>내용 또 추가</p>
+	
 </body>
 </html>
