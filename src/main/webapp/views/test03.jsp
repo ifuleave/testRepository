@@ -15,5 +15,12 @@
 	<p>잃어버린 하루를 찾아서</p>
 	<a href="#">링크를 추가합니다아앙</a>
 	<p>user01에서 작업 진행함</p>
+<<<<<<< HEAD
+=======
+		<a href="#">링크를 추가합니다아앙</a>
+	<h3>user02추가합니다아아아앙ㅇㅇㅇㅇㅇㅇㅇㅇㅇ</h3>
+	<h3>안녕</h3>
+	<a href="#">ㅁㄴㅇㄻ</a>
+>>>>>>> branch 'master' of https://github.com/ifuleave/testRepository.git
 </body>
 </html>
